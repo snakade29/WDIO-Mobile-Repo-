@@ -1,0 +1,1 @@
+stale element reference: WebDriverError: The element 'By.AndroidUiAutomator: new UiScrollable(new UiSelector().scrollable(true)).scrollIntoView(new UiSelector().description("test-ADD TO CART"))' is not linked to the same object in DOM anymore when running "element/00000000-0000-00d5-ffff-ffff0000005e/displayed" with method "GET"

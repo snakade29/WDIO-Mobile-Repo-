@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","120328","should launch app and match package name","Android Simple Sanity","Tue Dec 23 12:00:49 IST 2025","passed","Tue Dec 23 12:02:49 IST 2025","","","",""
+"","15388","should check product visibility and add to cart","Android Simple Sanity","Tue Jan 06 15:14:20 IST 2026","passed","Tue Jan 06 15:14:35 IST 2026","","","",""
+"","9834","should click the LOGIN button","Android Simple Sanity","Tue Jan 06 11:51:37 IST 2026","passed","Tue Jan 06 11:51:47 IST 2026","","","",""
+"","8205","should login successfully","Android Simple Sanity","Tue Jan 06 15:14:12 IST 2026","passed","Tue Jan 06 15:14:20 IST 2026","","","",""
