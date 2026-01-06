@@ -27,6 +27,8 @@ node -v
 npm -v
 
 📁 3️⃣ Create a WDIO Project
+
+
 mkdir wdio-mobile
 cd wdio-mobile
 npm init -y
