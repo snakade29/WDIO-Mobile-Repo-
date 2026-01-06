@@ -19,4 +19,5 @@
     "allure:generate": "allure generate allure-results --clean",
   "allure:open": "allure open"
   }
+
 }
